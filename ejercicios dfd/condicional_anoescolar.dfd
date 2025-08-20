@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+"ingrese su nota de cada periodo"
+5
+1
+11
+p1,p2,p3,p4
+6
+2
+4
+suma
+11
+p1+p2+p3+p4
+4
+prom
+6
+suma/4
+7
+0
+1
+7
+prom>=3
+4
+1
+15
+"perdiste vago"
+13
+4
+1
+16
+"pasaste de año"
+13
+1

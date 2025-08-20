@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+"ingrese sus horas diarias"
+5
+1
+13
+l,m,m,j,v,s,d
+6
+2
+4
+suma
+13
+l+m+m+j+v+s+d
+4
+prom
+6
+suma/7
+7
+0
+1
+7
+prom>=8
+4
+1
+15
+"media jornada"
+13
+4
+1
+18
+"jornada completa"
+13
+1

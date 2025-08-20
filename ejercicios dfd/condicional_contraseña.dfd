@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+"ingrese la contraseña"
+5
+1
+1
+x
+4
+1
+34
+"ingresela otra vez por seguridad"
+5
+1
+1
+y
+7
+0
+1
+4
+y!=x
+4
+1
+28
+"ha ingresado correctamente"
+13
+4
+1
+29
+"la contraseña es incorrecta"
+13
+1

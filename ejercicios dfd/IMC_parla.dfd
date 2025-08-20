@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+"ingrese su peso y talla"
+5
+1
+3
+p,t
+6
+1
+3
+ope
+7
+p/(t*t)
+7
+0
+1
+7
+ope>=25
+4
+1
+49
+"su IMC es de ", ope, " usted no tiene sobrepeso"
+13
+4
+1
+40
+"su IMC es de ", ope, " tiene sobrepeso"
+13
+1

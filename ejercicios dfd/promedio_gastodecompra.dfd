@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+"ingrese su monto de compras"
+5
+1
+24
+com1,com2,com3,com4,com5
+6
+3
+4
+suma
+24
+com1+com2+com3+com4+com5
+4
+prom
+6
+suma/5
+5
+total
+8
+prom*0.1
+4
+1
+25
+"su gasto promedio es de"
+4
+1
+5
+total
+1

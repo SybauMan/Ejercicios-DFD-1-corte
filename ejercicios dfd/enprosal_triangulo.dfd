@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+"ingrese la base de su triangulo"
+5
+1
+1
+b
+4
+1
+35
+"ingrese la altura de su triangulo"
+5
+1
+1
+a
+6
+1
+3
+tri
+5
+b*a/2
+4
+1
+34
+"el area de su triangulo es" , tri
+1

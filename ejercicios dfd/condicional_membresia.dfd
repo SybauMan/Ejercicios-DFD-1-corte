@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+' digite el valor de la compra '
+5
+1
+5
+valor
+4
+1
+31
+' ¿ tiene membresia premium ? '
+5
+1
+10
+membresia 
+7
+0
+1
+31
+valor>19000 or membresia=' si '
+6
+2
+5
+envio
+5
+12000
+5
+total
+11
+valor+envio
+4
+1
+87
+' su total a pagar mas envio el cual tiene un valor de 12000, es: ' , total , ' pesos '
+13
+4
+1
+70
+' no tiene que pagar envio, su total a pagar es: ' , valor , ' pesos '
+13
+1
